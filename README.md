@@ -4,17 +4,6 @@
 ## Project Overview
 At GTickets we are passionate about bringing gamers and eSports enthusiasts together. Founded by a team of dedicated gaming aficionados, our mission is to revolutionize the way you experience eGaming events by providing a seamless and exciting ticketing platform.
 
-## Our Team
-Our team consists of six dedicated members, with each member contributing to different aspects of the project. Together, we have worked collaboratively to design, develop, and implement the features of Gtickets. Here is a brief introduction to our team roles:
-
-1. **Obada Jawabreh** - Scrum Master: Responsible for coordinating the team, managing the project timeline, and ensuring that we follow agile practices.
-2. **Mariam Khasawneh** - Full Stack Developer: Focused on developing the user interface, implementing design elements, and handling backend services.
-3. **Noor Atallah** - Developer & Product Owner: Managed the backend setup with Firebase, handled database management, and oversaw the product development process.
-4. **Abd-Alrahman Ata** -  Developer & QA : Ensured the quality and functionality of the application through rigorous testing.
-5. **Hashem Frehat** - Full Stack Developer: Focused on developing the user interface, implementing design elements, and handling backend services.
-6.  **Ala'a  Ata** -  Full Stack Developer: Focused on developing the user interface, implementing design elements, and handling backend services.
-
-
 ## Technology Stack
 To build Gtickets, we used the following technologies and tools:
 
